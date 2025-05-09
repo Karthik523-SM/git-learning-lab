@@ -1,1 +1,2 @@
 This is my Git mastery project.
+Adding new lines to test
